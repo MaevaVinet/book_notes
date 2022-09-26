@@ -1,9 +1,9 @@
-# THE SOVEREIGN INDIVIDUAL by James Dale Davidson and Lord William Rees-Mogg
+# The Sovereign Individual by James Dale Davidson and Lord William Rees-Mogg
 
-## MAIN IDEAS
-Societies have a life cycle
-When they become inefficient, old institutions give way to new forms of social organisation
-We are on the edge of one of the biggest societal transitions from the Industrial Age to the Information Age.
+## TL;DR
+- Societies have a life cycle
+- When they become inefficient, old institutions give way to new forms of social organisation
+- We are on the edge of one of the biggest societal transitions from the Industrial Age to the Information Age.
 
 ## DEFINITIONS
 "The metaverse"; is a dense virtual community with its own laws.
