@@ -6,7 +6,7 @@
 - We are on the edge of one of the biggest societal transitions from the Industrial Age to the Information Age.
 
 ## DEFINITIONS
-"The metaverse"; is a dense virtual community with its own laws.
+"The metaverse"; a dense virtual community with its own laws.
 
 "Feudalism"; the social system where nobility held land in exchange for military service.
 
