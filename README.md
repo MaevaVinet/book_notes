@@ -1,2 +1,2 @@
-# book_summaries
-Key ideas from books I have read. 
+# book_note
+Notes of key ideas from books I have read. 
