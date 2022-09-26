@@ -7,7 +7,9 @@
 
 ## DEFINITIONS
 "The metaverse"; is a dense virtual community with its own laws.
+
 "Feudalism"; the social system where nobility held land in exchange for military service.
+
 "Politics"; the art of how we organise ourselves.
 
  
